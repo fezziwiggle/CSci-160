@@ -1,0 +1,7 @@
+hamburger:4.00
+cheeseburger:4.50
+fries:3.00
+drink:2.00
+nuggets:3.00
+ice cream:3.00
+hot dog:5.00

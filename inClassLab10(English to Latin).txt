@@ -1,0 +1,10 @@
+one:unus
+two:duo
+three:tres
+four:quattuor
+five:quinque
+six:sex
+seven:septem
+eight:octo
+nine:novem
+ten:decem
